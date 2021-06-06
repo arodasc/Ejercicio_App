@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejercicio_App</string>
+    <string name="txt_menu">Menú</string>
+    <string name="txt_menu_actualiza_autor">Actualiza Autor</string>
+    <string name="txt_menu_actualiza_libro">Actualiza Libro</string>
+</resources>
